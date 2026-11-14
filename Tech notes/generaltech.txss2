@@ -1,0 +1,56 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": false,
+        "File": ""
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "cppalgorithms.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 12,
+                "EditorGroup": 0,
+                "FileName": "Python.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 11
+            },
+            {
+                "Col": 11,
+                "EditorGroup": 0,
+                "FileName": "cppalgorithms.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 14
+            },
+            {
+                "Col": 16,
+                "EditorGroup": 0,
+                "FileName": "DataScience.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 7
+            },
+            {
+                "Col": 26,
+                "EditorGroup": 0,
+                "FileName": "DeepLearning.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 3
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "MLAlgorithms.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}

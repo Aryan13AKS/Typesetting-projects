@@ -1,16 +1,32 @@
-\documentclass{article}
+\documentclass{book}
 
 \usepackage{tikz}
 \usepackage{geometry}
 \usepackage{graphicx}
-\usepackage{}
+\usepackage{listings}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{minted}[python]
 
 \begin{document}
-	
+\chapter {}
 \section{}
 
 \subsection{}
 
-\section{}
+\chapter{Language Optimisations}
+
+\section{ Using C-language extensions}
+
+\subsection{Cython}
+
+Let's write the same piece of code using Cython and time it:
+
+\begin{minted}[python]
+	# Fibonacci sequence with cython optimisation
+	import numpy as np
+\end{minted}
+
+\section{Multiprocessing}
 	
 \end{document}
