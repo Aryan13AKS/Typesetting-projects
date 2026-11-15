@@ -7,9 +7,16 @@
 \usepackage{fancyhdr}
 \usepackage{graphicx}
 \usepackage{minted}[python]
+\usepackage{verbatim}
+
+\graphicspath{{.}}
+
 
 \begin{document}
-\chapter {}
+	
+\chapter{}
+
+\chapter {Object Oriented Programming}
 \section{}
 
 \subsection{}
@@ -22,12 +29,25 @@
 
 Let's write the same piece of code using Cython and time it:
 
-\begin{minted}[python]
-	# Fibonacci sequence with cython optimisation
+\begin{minted}
+	\begin{verbatim}  #Fibonacci sequence with cython optimisation \end{verbatim}
 	import numpy as np
 	%timeit
 \end{minted}
 
 \section{Multiprocessing}
+
+\chapter{GUI programming}
+
+\section{In-built Tkinter module}
+
+\section{wxPython}
+
+\section{PyQT module, PySide}
+
+\section{Kivy}
+\includegraphics{kivy.png}
+
+
 	
 \end{document}
